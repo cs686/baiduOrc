@@ -1,13 +1,14 @@
 {
     "name": "easylaravel/baidu_ocr",
     "description": "baidu AI of ocr",
+    "license": "MIT",
     "authors": [
         {
             "name": "cs686",
             "email": "cs686@126.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
