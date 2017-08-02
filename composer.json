@@ -1,0 +1,17 @@
+{
+    "name": "easylaravel/baidu_ocr",
+    "description": "baidu AI of ocr",
+    "authors": [
+        {
+            "name": "cs686",
+            "email": "cs686@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EasyLaravel\\BaiduOcr\\": "src/"
+        }
+    }
+}
